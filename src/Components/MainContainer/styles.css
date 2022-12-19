@@ -1,0 +1,32 @@
+#main-contrainer{
+  height: 72vh;
+  max-height: 700px;
+
+  width: 80vw;
+  max-width: 1250px;
+
+  background-color: rgb(255, 255, 255);
+  margin: auto;
+  top: 55px;
+  position: relative;
+
+  border-radius: 5px;
+}
+
+#header-main-contain{
+  /* background-color: antiquewhite; */
+  display: flex;
+
+  border: 0px;
+  border-bottom: 2px;
+  border-color: #aaa;
+  border-style: solid;
+}
+
+#header-main-contain p{
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 7px;
+  margin-left: 20px;
+}
