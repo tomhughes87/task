@@ -1,3 +1,10 @@
+# Preview:
+
+https://user-images.githubusercontent.com/91187363/208697723-f97aee2d-b41c-4b2b-800e-c37805055d9c.mp4
+
+
+
+
 In the project directory, you can run:
 
 ### `npm start`
@@ -29,3 +36,5 @@ In the project directory, you can run:
 
 - no branches used as it was a short, 1 person project not getting deployed
 - a few commits in the history to check out
+
+
