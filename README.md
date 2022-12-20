@@ -24,3 +24,8 @@ In the project directory, you can run:
 ## pleased with:
 
 - map the elements to create the badges, makes the site very flexible for future
+
+## Git stuff:
+
+- no branches used as it was a short, 1 person project not getting deployed
+- a few commits in the history to check out
